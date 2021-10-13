@@ -56,10 +56,11 @@ Definição de Pronto:
 3. A funcionalidade/correção está disponível em PROD
 
 
+Reposta: 
+
 1.  funcionalidade após ter sido implementada pela equipe de desenvolvimento, deve passar para o 
 time de qualidade verificar o que foi adicionado de novo no sistema e qual impacto irá causar dentro do mesmo,
 o que pode gerar ou não bugs para ser encaminhado novamente ao time de desenvolvimento.
-
 
 2. A partir disso, quando as correções forem aplicadas, será realizado um teste confirmação através dos relatos dos 
 erros com um passo-a-passo com evidencias para o melhor entedimento do time de desenvolvimento.
